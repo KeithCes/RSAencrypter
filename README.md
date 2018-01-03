@@ -1,2 +1,2 @@
 # RSAencrypter
-[WIP] [CURRENTLY PAUSED] An attempt at a python RSA encrypter
+[CURRENTLY PAUSED] An attempt at a python RSA encrypter
